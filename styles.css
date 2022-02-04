@@ -52,18 +52,14 @@ a {
 .suv__container {
   background-color: hsl(184, 100%, 22%);
   padding: 3rem 2.9rem;
-  border-radius: 8px 8px 0 0;
   bottom: 0.5rem;
-  position: relative;
 }
 
 .luxury__container {
   background-color: hsl(179, 100%, 13%);
   padding: 3rem 2.9rem;
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 0 0 8px 8px;
   bottom: 1rem;
-  position: relative;
-  z-index: 1000;
 }
 
 .section__link {
