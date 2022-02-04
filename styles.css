@@ -130,8 +130,8 @@ a {
 
   .suv__container {
     position: static;
-    border-radius: 8px 8px 8px;
     right: 1rem;
+    border-radius: 0;
   }
   .luxury__container {
     position: static;
